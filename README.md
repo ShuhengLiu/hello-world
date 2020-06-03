@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi, this is Shuheng's first repo
